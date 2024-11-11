@@ -12,3 +12,4 @@ This repository is dedicated for my learning and experimenting with Machine Lear
 1. 
 
 ## Resources
+1. https://www.tensorflow.org/tutorials
