@@ -13,3 +13,4 @@ This repository is dedicated for my learning and experimenting with Machine Lear
 
 ## Resources
 1. https://www.tensorflow.org/tutorials
+2. https://pytorch.org/tutorials/beginner/pytorch_with_examples.html
